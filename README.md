@@ -389,5 +389,5 @@ Site, please contact us at:
     rotkosky.rogue@gmail.com
         
 
-
-Privacy Policy
+  
+**[Privacy Policy](https://roguealexander.github.io/Momentum-Privacy-Policy)**
